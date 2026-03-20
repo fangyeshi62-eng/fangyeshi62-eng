@@ -1,54 +1,54 @@
 # Hi there, I'm Shi Fangye (施方野) 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fangyeshi62-eng&label=Profile%20views&color=0e75b6&style=flat" alt="fangyeshi62-eng" />
+  <img src="https://komarev.com/ghpvc/?username=fangyeshi62-eng&label=Profile%20views&color=004098&style=flat-square" alt="fangyeshi62-eng" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🎓 Academic Profile
 
-- 🎓 **Education**: Junior at SJTU (Shanghai Jiao Tong University). 
-- 🤖 **Research Interests**: Quadruped Robots (Legged Locomotion), Reinforcement Learning, and Computer Vision.
-- 🛠️ **Current Projects**: Working on a **Tomato Harvesting Robot** stalk positioning and **Parkour Policies** for quadruped robots (Go2).
-- 🏆 **Achievements**: Ranked 1st in major for 7 consecutive semesters | National Scholarship recipient.
-- 🏛️ **Community**: Serving as a Class Monitor and Department Head at the Student Union.
+- 🏫 **Graduate Student** at **Shanghai Jiao Tong University (SJTU)**.
+- 🏛️ **Affiliation**: School of Mechanical and Power Engineering (ME).
+- 🧬 **Research Focus**: 
+  - **Legged Locomotion**: Developing robust parkour and navigation policies for quadruped robots.
+  - **Reinforcement Learning**: Simulation-to-Real (Sim2Real) transfer using Isaac Gym & MuJoCo.
+  - **Agricultural Robotics**: Intelligent perception and positioning for tomato harvesting.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Research & Tech Stack
 
-| Category | Tools & Technologies |
+| Domain | Expertise |
 | :--- | :--- |
-| **Robotics & Sim** | MuJoCo, Isaac Gym, Legged Gym, ROS |
-| **AI / ML** | Reinforcement Learning, YOLOv8, Semantic Segmentation |
-| **Languages** | Python, C++, Markdown |
-| **Workflow** | Git, Slurm, Zed, GitBook |
+| **Robotics Sim** | **Isaac Gym**, **MuJoCo**, Legged Gym, Gazebo |
+| **RL & AI** | Deep Reinforcement Learning (PPO, SAC), YOLOv8, PyTorch |
+| **Hardware/Deploy** | Unitree Go2, Linux (Ubuntu), ROS/ROS2, NVIDIA Jetson |
+| **High Performance** | Slurm Cluster Management, RTX 4090/5090 Optimization |
+| **Development** | C++, Python, Git, Zed, GitBook |
 
 ---
 
-### 🌱 I’m currently learning ...
-- Advanced **Reinforcement Learning** algorithms for complex terrain navigation.
-- Optimizing deployment on high-performance clusters (RTX 4090/5090).
+### 🔭 Current Research & Projects
 
-### 💬 Ask me about ...
-- Quadruped robot simulation and deployment.
-- How to manage academic projects and student leadership roles.
-
-### 📫 How to reach me:
-- **GitHub**: [fangyeshi62-eng](https://github.com/fangyeshi62-eng)
-- 📍 Based in **Shanghai, China**
+- 🐾 **Quadruped Parkour**: Scaling complex terrain navigation through RL.
+- 🍅 **Autonomous Harvesting**: Refining stalk positioning algorithms for precision agriculture.
+- 📜 **Intellectual Property**: 3 Patents & 1 Software Copyright authorized.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fangyeshi62-eng&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangyeshi62-eng&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fangyeshi62-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangyeshi62-eng&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+### 📫 Connect with Me
+- 📍 **Location**: Minhang Campus, SJTU, Shanghai
+- 💬 **Ask me about**: Legged robot deployment or SJTU graduate life.
+
 <p align="center">
-  <i>"Stay hungry, stay foolish, and keep coding robots."</i>
+  <img src="https://img.shields.io/badge/SJTU-Seize%20the%20Day-004098?style=for-the-badge&logo=SJTU&logoColor=white" />
 </p>
